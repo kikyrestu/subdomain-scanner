@@ -32,8 +32,8 @@ pip install requests
 
 1. **Kloning Repository**:
    ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name
+   git clone https://github.com/kikyrestu/subdomain-scanner.git
+   cd subdomain-scanner
    ```
 
 2. **Siapkan Daftar Subdomain**:
