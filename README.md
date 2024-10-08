@@ -56,7 +56,7 @@ http://www.example.com
 http://api.example.com
 ```
 
-## 👨‍💻 Penulis
+## 👨‍💻 Creator
 
 - **Nama**: Kiky Restu Noviansyah
 - **Email**: kikyrestunov@gmail.com
