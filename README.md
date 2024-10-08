@@ -58,20 +58,5 @@ http://api.example.com
 
 ## 👨‍💻 Penulis
 
-- **Nama**: [Nama Anda]
-- **Email**: [Email Anda]
-
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah **MIT License**. Lihat [LICENSE](./LICENSE) untuk informasi lebih lanjut.
-```
-
-### Penjelasan Struktur:
-- **Deskripsi Proyek**: Menjelaskan fungsi dan cara kerja skrip.
-- **Teknologi yang Digunakan**: Menyebutkan teknologi yang relevan.
-- **Cara Menjalankan Proyek**: Menguraikan langkah-langkah untuk menjalankan skrip.
-- **Contoh Penggunaan**: Menyediakan contoh bagaimana output skrip dapat terlihat.
-- **Penulis**: Ruang untuk informasi tentang siapa yang membuat proyek.
-- **Lisensi**: Menyediakan informasi tentang lisensi penggunaan.
-
-Pastikan untuk mengganti `username/repo-name` dengan informasi yang sesuai dan menyesuaikan bagian penulis dengan nama serta email Anda.
+- **Nama**: Kiky Restu Noviansyah
+- **Email**: kikyrestunov@gmail.com
